@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section_m2m_destination">
+    <sys_sg_navigation_section_m2m_destination action="DELETE">
+        <navigation_section display_value="Quick links">57f8fce6778101108f64b2487b5a995f</navigation_section>
+        <navigation_section_destination display_value="Daily Activity Reports">b1281e84db8a1e9029aeefe8139619db</navigation_section_destination>
+        <order>300</order>
+        <sys_class_name>sys_sg_navigation_section_m2m_destination</sys_class_name>
+        <sys_created_by>joy00332</sys_created_by>
+        <sys_created_on>2024-11-18 21:49:53</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>3585dac0db8a1e9029aeefe8139619f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Now Mobile" source="sn_me">5cfbdaac77eb2300454792718a106157</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Now Mobile">5cfbdaac77eb2300454792718a106157</sys_scope>
+        <sys_update_name>sys_sg_navigation_section_m2m_destination_3585dac0db8a1e9029aeefe8139619f0</sys_update_name>
+        <sys_updated_by>joy00332</sys_updated_by>
+        <sys_updated_on>2024-11-18 21:49:53</sys_updated_on>
+    </sys_sg_navigation_section_m2m_destination>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Now Mobile">5cfbdaac77eb2300454792718a106157</application>
+        <comments/>
+        <file_path/>
+        <instance_id>86b71c2d0a0a3c7001b021762b438b3b</instance_id>
+        <instance_name>christusdev</instance_name>
+        <name>sys_sg_navigation_section_m2m_destination_3585dac0db8a1e9029aeefe8139619f0</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section_m2m_destination"><sys_sg_navigation_section_m2m_destination action="INSERT_OR_UPDATE"><navigation_section display_value="Quick links">57f8fce6778101108f64b2487b5a995f</navigation_section><navigation_section_destination display_value="Daily Activity Reports">b1281e84db8a1e9029aeefe8139619db</navigation_section_destination><order>300</order><sys_class_name>sys_sg_navigation_section_m2m_destination</sys_class_name><sys_created_by>joy00332</sys_created_by><sys_created_on>2024-11-18 21:49:53</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>3585dac0db8a1e9029aeefe8139619f0</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Now Mobile" source="sn_me">5cfbdaac77eb2300454792718a106157</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Now Mobile">5cfbdaac77eb2300454792718a106157</sys_scope><sys_update_name>sys_sg_navigation_section_m2m_destination_3585dac0db8a1e9029aeefe8139619f0</sys_update_name><sys_updated_by>joy00332</sys_updated_by><sys_updated_on>2024-11-18 21:49:53</sys_updated_on></sys_sg_navigation_section_m2m_destination></record_update>]]></payload>
+        <payload_hash>1886708218</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>e1bb8bc91b2d96106d12fe261a4bcbc7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>joy00332</sys_created_by>
+        <sys_created_on>2024-11-18 21:49:53</sys_created_on>
+        <sys_id>9458de84db8a1e9029aeefe813961972</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1934140eb1f0000001</sys_recorded_at>
+        <sys_updated_by>joy00332</sys_updated_by>
+        <sys_updated_on>2024-11-18 21:49:53</sys_updated_on>
+        <type>Icon section destinations</type>
+        <update_guid>5858de84668a1e90bc5e24e306557471</update_guid>
+        <update_guid_history>5858de84668a1e90bc5e24e306557471:1886708218</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>joy00332</sys_created_by>
+        <sys_created_on>2024-11-18 21:52:42</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_navigation_section_m2m_destination">sys_sg_navigation_section_m2m_destination</sys_db_object>
+        <sys_id>02dadbeab414410286077e80b02f84e4</sys_id>
+        <sys_metadata>3585dac0db8a1e9029aeefe8139619f0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Now Mobile" source="sn_me">5cfbdaac77eb2300454792718a106157</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Now Mobile">5cfbdaac77eb2300454792718a106157</sys_scope>
+        <sys_scope_delete display_value="">05b3b250c36a4400b57c2ad201510000</sys_scope_delete>
+        <sys_update_name>sys_sg_navigation_section_m2m_destination_3585dac0db8a1e9029aeefe8139619f0</sys_update_name>
+        <sys_update_version display_value="sys_sg_navigation_section_m2m_destination_3585dac0db8a1e9029aeefe8139619f0">9458de84db8a1e9029aeefe813961972</sys_update_version>
+        <sys_updated_by>joy00332</sys_updated_by>
+        <sys_updated_on>2024-11-18 21:52:42</sys_updated_on>
+    </sys_metadata_delete>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Now Mobile">5cfbdaac77eb2300454792718a106157</claim_owner_scope>
+        <claim_timestamp>1961bb4f17a0000001</claim_timestamp>
+        <metadata_update_name>sys_sg_navigation_section_m2m_destination_3585dac0db8a1e9029aeefe8139619f0</metadata_update_name>
+        <previous_claim_app_version>29.1.10</previous_claim_app_version>
+        <previous_claim_name>Now Mobile</previous_claim_name>
+        <previous_claim_scope>5cfbdaac77eb2300454792718a106157</previous_claim_scope>
+        <sys_created_by>joy00332</sys_created_by>
+        <sys_created_on>2025-04-09 17:59:25</sys_created_on>
+        <sys_id>64557c3d1bfc661009def2ff034bcb2c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>joy00332</sys_updated_by>
+        <sys_updated_on>2025-04-09 17:59:25</sys_updated_on>
+    </sys_claim>
+</record_update>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section_m2m_destination">
+    <sys_sg_navigation_section_m2m_destination action="INSERT_OR_UPDATE">
+        <navigation_section display_value="Quick links">57f8fce6778101108f64b2487b5a995f</navigation_section>
+        <navigation_section_destination display_value="IS Portal">b9f8d2cf1b00ea90b32a2f81b24bcbd1</navigation_section_destination>
+        <order>100</order>
+        <sys_class_name>sys_sg_navigation_section_m2m_destination</sys_class_name>
+        <sys_created_by>joy00332</sys_created_by>
+        <sys_created_on>2025-03-07 15:41:09</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>12881a4f1b00ea90b32a2f81b24bcb2b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Now Mobile" source="sn_me">5cfbdaac77eb2300454792718a106157</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Now Mobile">5cfbdaac77eb2300454792718a106157</sys_scope>
+        <sys_update_name>sys_sg_navigation_section_m2m_destination_12881a4f1b00ea90b32a2f81b24bcb2b</sys_update_name>
+        <sys_updated_by>joy00332</sys_updated_by>
+        <sys_updated_on>2025-03-07 15:41:42</sys_updated_on>
+    </sys_sg_navigation_section_m2m_destination>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Now Mobile">5cfbdaac77eb2300454792718a106157</claim_owner_scope>
+        <claim_timestamp>1961bb4f1440000001</claim_timestamp>
+        <metadata_update_name>sys_sg_navigation_section_m2m_destination_12881a4f1b00ea90b32a2f81b24bcb2b</metadata_update_name>
+        <previous_claim_app_version>29.1.10</previous_claim_app_version>
+        <previous_claim_name>Now Mobile</previous_claim_name>
+        <previous_claim_scope>5cfbdaac77eb2300454792718a106157</previous_claim_scope>
+        <sys_created_by>joy00332</sys_created_by>
+        <sys_created_on>2025-04-09 17:59:25</sys_created_on>
+        <sys_id>a0557c3d1bfc661009def2ff034bcb26</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>joy00332</sys_updated_by>
+        <sys_updated_on>2025-04-09 17:59:25</sys_updated_on>
+    </sys_claim>
+</record_update>

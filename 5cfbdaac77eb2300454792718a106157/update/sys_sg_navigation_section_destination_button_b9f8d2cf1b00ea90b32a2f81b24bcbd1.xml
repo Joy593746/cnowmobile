@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section_destination_button">
+    <sys_sg_navigation_section_destination_button action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_color_variable/>
+        <button display_value="ISSP">27a812cf1b00ea90b32a2f81b24bcba2</button>
+        <foreground_color>#1F8476</foreground_color>
+        <foreground_color_variable display_value="Color - Primary 1">51f01543070e201083c548f78ad30077</foreground_color_variable>
+        <icon display_value="Star - Purple">5d55877eff061300f1f2883b73e11c0d</icon>
+        <image/>
+        <name>IS Portal</name>
+        <sys_class_name>sys_sg_navigation_section_destination_button</sys_class_name>
+        <sys_created_by>joy00332</sys_created_by>
+        <sys_created_on>2025-03-07 15:40:41</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b9f8d2cf1b00ea90b32a2f81b24bcbd1</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>IS Portal</sys_name>
+        <sys_package display_value="Now Mobile" source="sn_me">5cfbdaac77eb2300454792718a106157</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Now Mobile">5cfbdaac77eb2300454792718a106157</sys_scope>
+        <sys_update_name>sys_sg_navigation_section_destination_button_b9f8d2cf1b00ea90b32a2f81b24bcbd1</sys_update_name>
+        <sys_updated_by>joy00332</sys_updated_by>
+        <sys_updated_on>2025-03-27 18:29:27</sys_updated_on>
+    </sys_sg_navigation_section_destination_button>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Now Mobile">5cfbdaac77eb2300454792718a106157</claim_owner_scope>
+        <claim_timestamp>1961bb4f1500000001</claim_timestamp>
+        <metadata_update_name>sys_sg_navigation_section_destination_button_b9f8d2cf1b00ea90b32a2f81b24bcbd1</metadata_update_name>
+        <previous_claim_app_version>29.1.10</previous_claim_app_version>
+        <previous_claim_name>Now Mobile</previous_claim_name>
+        <previous_claim_scope>5cfbdaac77eb2300454792718a106157</previous_claim_scope>
+        <sys_created_by>joy00332</sys_created_by>
+        <sys_created_on>2025-04-09 17:59:25</sys_created_on>
+        <sys_id>28557c3d1bfc661009def2ff034bcb27</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>joy00332</sys_updated_by>
+        <sys_updated_on>2025-04-09 17:59:25</sys_updated_on>
+    </sys_claim>
+</record_update>

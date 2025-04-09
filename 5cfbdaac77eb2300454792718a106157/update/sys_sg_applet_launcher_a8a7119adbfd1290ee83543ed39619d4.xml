@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <access_control_type>user_roles</access_control_type>
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button display_value="Christus Public Safety">3b389ddedbb99290c4a7ac1b13961946</header_button>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>IS Services</name>
+        <required_roles/>
+        <search_config display_value="Homepage Search - Catalog, Knowledge, People">d259d3d47320330018eea18d4ef6a708</search_config>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>bas38797</sys_created_by>
+        <sys_created_on>2024-11-13 06:37:55</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a8a7119adbfd1290ee83543ed39619d4</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>IS Services</sys_name>
+        <sys_package display_value="Now Mobile" source="sn_me">5cfbdaac77eb2300454792718a106157</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Now Mobile">5cfbdaac77eb2300454792718a106157</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_a8a7119adbfd1290ee83543ed39619d4</sys_update_name>
+        <sys_updated_by>bas38797</sys_updated_by>
+        <sys_updated_on>2024-11-14 12:48:03</sys_updated_on>
+        <title>IS Services</title>
+    </sys_sg_applet_launcher>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Now Mobile">5cfbdaac77eb2300454792718a106157</claim_owner_scope>
+        <claim_timestamp>1961bb4f15b0000001</claim_timestamp>
+        <metadata_update_name>sys_sg_applet_launcher_a8a7119adbfd1290ee83543ed39619d4</metadata_update_name>
+        <previous_claim_app_version>29.1.10</previous_claim_app_version>
+        <previous_claim_name>Now Mobile</previous_claim_name>
+        <previous_claim_scope>5cfbdaac77eb2300454792718a106157</previous_claim_scope>
+        <sys_created_by>joy00332</sys_created_by>
+        <sys_created_on>2025-04-09 17:59:25</sys_created_on>
+        <sys_id>ac557c3d1bfc661009def2ff034bcb28</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>joy00332</sys_updated_by>
+        <sys_updated_on>2025-04-09 17:59:25</sys_updated_on>
+    </sys_claim>
+</record_update>
